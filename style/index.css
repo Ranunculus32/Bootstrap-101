@@ -4,18 +4,18 @@ body {
 }
 
 .card {
-    width: 18rem;
+    width: 20rem;
     border-radius: 2rem;
     gap: 3rem;
     padding-top: 3rem;
 }
-img {
+/* img {
     width: 20vw;
     height: auto;
     border: .1rem;
     border-radius: 1rem;
     
-}
+} */
 .fa {
     font-size: 1.8rem;
     height: 4rem;
